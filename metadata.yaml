@@ -1,4 +1,8 @@
 _repo: Egoists-A-Book-of-Supermen_47454
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47454-h/images/huneker_cover.jpg
 creator:
   author:
     agent_name: Huneker, James
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1597
     wikipedia: http://en.wikipedia.org/wiki/James_Huneker
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47454#Egoists-A-Book-of-Supermen
 gutenberg_issued: '2014-11-25'
 gutenberg_type: Text
 identifiers:
